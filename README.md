@@ -33,7 +33,7 @@
 ## Expected output:
     On success, the program creates/overwrites:
     
-    - ai-api/src/importAnalysis.md
+    - typescript-dependency-analysis-program/src/importAnalysis.md
     - LLM-written analysis with a dependency overview 
     - and recommendations.
 
