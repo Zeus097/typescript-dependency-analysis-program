@@ -7,7 +7,7 @@
     - Sends a summary to Gemini via @google/genai.
     - Writes a Markdown report at ai-api/src/importAnalysis.md.
 
-## .env is used for configuration .
+### .env is used for configuration .
 
 
 ## Install dependencies in project root Terminal:
@@ -20,7 +20,7 @@
 
     npm run analyze
     
- # or equivalently
+ ### or equivalently
     
     npx tsx ./ai-api/src/main.ts
 
