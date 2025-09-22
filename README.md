@@ -20,7 +20,7 @@
 
     npm run analyze
     
-    # or equivalently
+ # or equivalently
     
     npx tsx ./ai-api/src/main.ts
 
