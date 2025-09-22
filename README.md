@@ -16,7 +16,12 @@
     npm install -D typescript tsx @types/node
 
 
-## To start run one of the following commands
+## In order to run:
+    It needs an 'GEMINI_API_KEY', from 
+    '.env file' created in the project directory
+
+
+## To start, run one of the following commands:
 
     npm run analyze
     
