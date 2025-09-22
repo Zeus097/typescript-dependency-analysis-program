@@ -13,7 +13,7 @@
 
   
   "scripts": {
-    "analyze": "tsx ./ai-api/src/main.ts"
+    "analyze": "tsx ./src/main.ts"
   }
   
   
