@@ -2,7 +2,7 @@
 
 
 ## This tool:
-    - Scans TypeScript files in ai-api/utils/.
+    - Scans TypeScript files in typescript-dependency-analysis-program/utils/.
     - Extracts all import / export ... from statements.
     - Sends a summary to Gemini via @google/genai.
     - Writes a Markdown report at ai-api/src/importAnalysis.md.
