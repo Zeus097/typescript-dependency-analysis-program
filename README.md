@@ -5,7 +5,7 @@
     - Scans TypeScript files in typescript-dependency-analysis-program/utils/.
     - Extracts all import / export ... from statements.
     - Sends a summary to Gemini via @google/genai.
-    - Writes a Markdown report at ai-api/src/importAnalysis.md.
+    - Writes a Markdown report at typescript-dependency-analysis-program/src/importAnalysis.md.
 
 ### .env is used for configuration .
 
